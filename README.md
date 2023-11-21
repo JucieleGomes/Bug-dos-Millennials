@@ -7,20 +7,12 @@
 5. [Funcionalidades](#funcionalidades)
 6. [Melhorias Futuras](#melhorias-futuras)
 7. [Testes](#testes)
-8. [Ferramentas e Tecnologias Utilizadas](#ferramentas-e-tecnologias-utilizadas)
-9. [Checklist Critérios Mínimos de Aceitação](#checklist-criterios-minimos-de-aceitacao)
-10. [Desenvolvedoras](#desenvolvedoras)
+8. [Link para o projeto](#link)
+9. [Ferramentas e Tecnologias Utilizadas](#ferramentas-e-tecnologias-utilizadas)
+10. [Checklist Critérios Mínimos de Aceitação](#checklist-criterios-minimos-de-aceitacao)
+11. [Desenvolvedoras](#desenvolvedoras)
 
 ![Sem título](https://github.com/SaraAnita1/SAP011-social-network/assets/127780316/dbf2155a-49f5-45da-a3fe-20473cd6fa52)
-
-
-# Acesse agora o aplicativo escanenado o QR code abaixo ou clicando no link:
-
-![Link projeto](https://github.com/SaraAnita1/SAP011-social-network/assets/127780316/fdb6bd8d-3337-48db-b22c-433cbe9b9370)
-
-   * [BUG DOS MILLENNIALS](https://bug-dos-millennials.web.app/)
-
-
 
 
 <a name="apresentacao"></a>
@@ -183,6 +175,15 @@ realizar essas melhorias para torar a aplicação mais completa.
 Foram realizados testes da SPA e das funções de login e do firebase auth, não concluimos os demais
 testes de telas, e pretendemos em um futuro próximo implementar testes em todas as funções do
 código.
+
+
+<a name="link"></a>
+## 🔗 Link para o projeto
+### Acesse agora nossa aplicação escanenado o QR code abaixo ou acessando o link:
+
+![Link projeto](https://github.com/SaraAnita1/SAP011-social-network/assets/127780316/fdb6bd8d-3337-48db-b22c-433cbe9b9370)
+
+   * [BUG DOS MILLENNIALS](https://bug-dos-millenials.web.app/)
 
 <a name="ferramentas-e-tecnologias-utilizadas"></a>
 # 🔨 Ferramentas e tecnologias utilizadas
