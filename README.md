@@ -181,7 +181,8 @@ código.
 ## 🔗 Link para o projeto
 ### Acesse agora nossa aplicação escanenado o QR code abaixo ou acessando o link:
 
-![Link projeto](https://github.com/SaraAnita1/SAP011-social-network/assets/127780316/fdb6bd8d-3337-48db-b22c-433cbe9b9370)
+![qr-code__3_-removebg-preview](https://github.com/JucieleGomes/Bug-dos-Millennials/assets/127780316/93b835e0-3e88-4e36-a0d6-b9b54ef0356e)
+
 
    * [BUG DOS MILLENNIALS](https://bug-dos-millenials.web.app/)
 
